@@ -55,7 +55,7 @@
 
     var serverURL = 'localhost:50000';
 
-    var name = 'min koo';
+    var name = 'jin';
     var room = '100';
 
     var socket = null;
